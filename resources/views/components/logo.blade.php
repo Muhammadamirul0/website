@@ -1,0 +1,1 @@
+<img src="{{ asset('togo-techno-03.png') }}" class="w-[50px]" alt="Mardawa Logo">
